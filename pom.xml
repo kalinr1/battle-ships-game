@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.example</groupId>
-    <artifactId>BattleShips-Game</artifactId>
+    <artifactId>BattleShipsGame</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>ExamPrep1</name>
     <description>ExamPrep1</description>
